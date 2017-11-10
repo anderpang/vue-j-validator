@@ -1,0 +1,85 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "vue-j-validator",
+        "scope": null,
+        "escapedName": "vue-j-validator",
+        "name": "vue-j-validator",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "P:\\exercise\\vue\\demo5"
+    ]
+  ],
+  "_from": "vue-j-validator@latest",
+  "_id": "vue-j-validator@1.0.0",
+  "_inCache": true,
+  "_location": "/vue-j-validator",
+  "_nodeVersion": "8.6.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/vue-j-validator-1.0.0.tgz_1510299696120_0.12544209090992808"
+  },
+  "_npmUser": {
+    "name": "anderpang",
+    "email": "anderpang@qq.com"
+  },
+  "_npmVersion": "5.3.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "vue-j-validator",
+    "scope": null,
+    "escapedName": "vue-j-validator",
+    "name": "vue-j-validator",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/vue-j-validator/-/vue-j-validator-1.0.0.tgz",
+  "_shasum": "40e846e3c920e8d88a482c4062df434bd1ea7d2f",
+  "_shrinkwrap": null,
+  "_spec": "vue-j-validator",
+  "_where": "P:\\exercise\\vue\\demo5",
+  "author": {
+    "name": "AnderPang",
+    "email": "anderpang@foxmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/anderpang/vue-j-validator/issues"
+  },
+  "dependencies": {},
+  "description": "vue2.x form validator",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-3DGuMswGaXXNy9US6r4KilNTV2JfyJ0vmtf0gNNpdRweP9PFr0UK9eGXoh92dAHFftoAChK8GUhp4ScNtutraA==",
+    "shasum": "40e846e3c920e8d88a482c4062df434bd1ea7d2f",
+    "tarball": "https://registry.npmjs.org/vue-j-validator/-/vue-j-validator-1.0.0.tgz"
+  },
+  "homepage": "https://github.com/anderpang/vue-j-validator#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "anderpang",
+      "email": "anderpang@qq.com"
+    }
+  ],
+  "name": "vue-j-validator",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/anderpang/vue-j-validator.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
